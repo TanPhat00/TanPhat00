@@ -3,9 +3,9 @@
 
 ### 🌡️ 26.7°C &nbsp; | &nbsp; ☁️ Patchy rain nearby
 
-💧 Độ ẩm: **79%** &nbsp; | &nbsp; 💨 Gió: **14.0 km/h**
+💧 Độ ẩm: **81%** &nbsp; | &nbsp; 💨 Gió: **11.9 km/h**
 
-🕐 **Cập nhật:** 2026-09-01 00:43
+🕐 **Cập nhật:** 2026-09-01 05:05
 <!-- WEATHER_FORECAST_END -->
 
 ---
