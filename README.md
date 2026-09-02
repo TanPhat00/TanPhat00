@@ -3,9 +3,9 @@
 
 ### 🌡️ 26.4°C &nbsp; | &nbsp; ☁️ Overcast
 
-💧 Độ ẩm: **82%** &nbsp; | &nbsp; 💨 Gió: **11.9 km/h**
+💧 Độ ẩm: **83%** &nbsp; | &nbsp; 💨 Gió: **9.4 km/h**
 
-🕐 **Cập nhật:** 2026-09-03 04:23
+🕐 **Cập nhật:** 2026-09-03 06:38
 <!-- WEATHER_FORECAST_END -->
 
 ---
