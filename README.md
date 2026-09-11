@@ -3,9 +3,9 @@
 
 ### 🌡️ 24.7°C &nbsp; | &nbsp; ☁️ Light rain shower
 
-💧 Độ ẩm: **92%** &nbsp; | &nbsp; 💨 Gió: **4.7 km/h**
+💧 Độ ẩm: **92%** &nbsp; | &nbsp; 💨 Gió: **6.5 km/h**
 
-🕐 **Cập nhật:** 2026-09-12 01:47
+🕐 **Cập nhật:** 2026-09-12 04:23
 <!-- WEATHER_FORECAST_END -->
 
 ---
