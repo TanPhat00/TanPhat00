@@ -3,9 +3,9 @@
 
 ### 🌡️ 26.3°C &nbsp; | &nbsp; ☁️ Smoky haze
 
-💧 Độ ẩm: **85%** &nbsp; | &nbsp; 💨 Gió: **7.2 km/h**
+💧 Độ ẩm: **87%** &nbsp; | &nbsp; 💨 Gió: **4.3 km/h**
 
-🕐 **Cập nhật:** 2026-10-04 22:31
+🕐 **Cập nhật:** 2026-10-05 01:50
 <!-- WEATHER_FORECAST_END -->
 
 ---
