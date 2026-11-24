@@ -1,11 +1,11 @@
 <!-- WEATHER_FORECAST_START -->
 # 🌤️ Thời tiết hiện tại — Hồ Chí Minh
 
-### 🌡️ 29.9°C &nbsp; | &nbsp; ☁️ Smoky haze
+### 🌡️ 26.5°C &nbsp; | &nbsp; ☁️ Light drizzle
 
-💧 Độ ẩm: **69%** &nbsp; | &nbsp; 💨 Gió: **3.6 km/h**
+💧 Độ ẩm: **89%** &nbsp; | &nbsp; 💨 Gió: **4.0 km/h**
 
-🕐 **Cập nhật:** 2026-11-24 09:38
+🕐 **Cập nhật:** 2026-11-24 19:59
 <!-- WEATHER_FORECAST_END -->
 
 ---
